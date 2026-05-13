@@ -151,7 +151,8 @@ __end__
 <!-- 그래프 구조 사진 넣는 부분 -->
 <!-- 파일 경로: images/graph.png -->
 
-![LangGraph Graph Structure](images/graph.png)
+<img width="168" height="808" alt="image" src="https://github.com/user-attachments/assets/ffbd35c3-261c-4501-9e94-8b787dec3d11" />
+
 
 ---
 
@@ -162,7 +163,9 @@ __end__
 <!-- 실행 결과 사진 넣는 부분 -->
 <!-- 파일 경로: images/result.png -->
 
-![Execution Result](images/result.png)
+<img width="1106" height="810" alt="image" src="https://github.com/user-attachments/assets/14072b70-b7b4-496b-ac0a-15f2a36bd9c0" />
+
+
 
 실행 결과에서는 다음 내용을 확인할 수 있습니다.
 
